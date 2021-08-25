@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Electronic Stuffs.
 - 🌱 I’m currently learning C/C++, Python and ROS.
 - 💞️ I’m looking to collaborate on :Not now, i have to learn a lot yet.
-- 📫 How to reach me : 
+- 📫 How to reach me : shiva2br@gmail.com
 
 <!---
 ShivamV-Dev/ShivamV-Dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
