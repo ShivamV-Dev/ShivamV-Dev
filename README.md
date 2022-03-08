@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shivendra Singh Verma.
-- 👀 I’m interested in Machine Learning and Electronic Stuffs.
+- 👀 I’m interested in Machine Learning and Electronics.
 - 🌱 I’m currently learning C/C++, Python and ROS.
-- 💞️ I’m looking to collaborate on :Not now, i have to learn a lot yet.
+- 💞️ I’m looking to collaborate on : Development Board Design.
 - 📫 How to reach me : shiva2br@gmail.com
 
 <!---
